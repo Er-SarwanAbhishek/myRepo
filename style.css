@@ -1,0 +1,11 @@
+* {
+    margin: 0;padding: 0;
+}
+h1
+{ align-items: center;
+    height: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+}
